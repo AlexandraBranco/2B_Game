@@ -1,2 +1,2 @@
-# 2B_Game
+# 2B Game
 This project was developed in Unity 3D
